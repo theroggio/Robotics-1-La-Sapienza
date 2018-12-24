@@ -43,3 +43,7 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/numerical%20methods/Ex2.md'> Convergence </a>
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/numerical%20methods/Ex3.md'> Null space, stop of Gradient Descent | NR near singularities </a> 
+
+### Differential Kinematics
+
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/differential%20kinematics/Ex1.md'> Map from angular velocity to angles time derivative </a>
