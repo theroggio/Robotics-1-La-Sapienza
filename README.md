@@ -37,7 +37,7 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 #### Numerical methods
 
-- Given two results of iterations, what's the method used? 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/numerical%20methods/Ex1.md'> Ex 1 - Methods usage, parameters, expected results </a>
 
 - If convergences, to what? 
 
