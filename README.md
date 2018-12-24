@@ -6,8 +6,9 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 ### Orientation
 
-- Given the orientation in two ways, compute the initial orientation wrt reference frame and exprime it with a set of angles.
-  - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/orientation/Ex1.md'> Ex 1 </a>
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/orientation/Ex1.md'> Ex 1 - Relative Orientations between two expression | RPY representation of orientation </a>
+
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/orientation/Ex2.md'> Ex 2 - Orientation 4x4 of frame A wrt frame B </a>
 
 - In this configuration, what's the orientation of last frame?
 
@@ -18,9 +19,6 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - Table of DH parameters.
   - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/Denavit-Hartenberg/Ex2.md'> 7R Anthropomorphic </a>
-
-- Transformation matrix between frame A to frame B. 
-  - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/Denavit-Hartenberg/Ex3.md'> Ex 1 </a>
 
 ### Motor 
 
