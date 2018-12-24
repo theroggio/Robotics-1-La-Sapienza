@@ -18,8 +18,6 @@ To express the solution as Roll-Pitch-Yaw matrix let's remember that this matrix
 Because it is with fixed axis (so we use the multiplication on the contrary direction). Now we have the representation as (angle1, angle2, angle3) and its values with the InitOrient matrix.
 
 We just need to solve the inverse problem: 
-
-### step-by-step way 
 From the matrices we understand which values to use in order to solve for angles with atan2 formula.
 angle2 = atan2( -R31 , sqrt((R32)^2 + (R33)^2))
 angle2' = atan2( -R31 ,-sqrt((R32)^2 + (R33)^2))
