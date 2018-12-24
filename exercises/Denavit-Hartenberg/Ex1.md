@@ -8,7 +8,7 @@ M = [ -0.7071 ,  0.5  ,   -0.5  ,  -1   ;
             0 ,0.7071 ,  0.7071 ,-0.7071;
             0 ,   0   ,    0    ,   1   ]
             
-Let's consider the general matrix created by a DH frame:
+The determinant of it's 3x3 first minor is +1, so it is a rotation matrix. Let's consider the general matrix created by a DH frame:
 
 M = [ cos(theta) ,  -cos(alpha)sen(theta)  ,   sen(alpha)sen(theta)  ,  a*cos(theta)   ;
       sen(theta) ,   cos(alpha)cos(theta)  ,  -sen(alpha)cos(theta)  ,  a*sen(theta)   ;
@@ -24,3 +24,5 @@ I'ts easy to see that:
 **theta** = atan2(M21,M11)
 
 **a** = M14/cos(theta)
+
+Obviously if using one of these equations we'd observe an inconsistency then it was not an homogeneous transformation matrix.
