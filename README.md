@@ -7,6 +7,7 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 ### Orientation
 
 - Given the orientation in two ways, compute the initial orientation wrt reference frame and exprime it with a set of angles.
+  - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/orientation/Ex1.md'> Ex 1 </a>
 
 - In this configuration, what's the orientation of last frame?
 
