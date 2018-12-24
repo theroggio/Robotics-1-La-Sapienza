@@ -17,8 +17,10 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
   - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/Denavit-Hartenberg/Ex1.md'> Ex 1 </a>
 
 - Table of DH parameters.
+  - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/Denavit-Hartenberg/Ex2.md'> 7R Anthropomorphic </a>
 
 - Transformation matrix between frame A to frame B. 
+  - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/Denavit-Hartenberg/Ex3.md'> Ex 1 </a>
 
 ### Motor 
 
