@@ -12,6 +12,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/orientation/Ex3.md'> Orientation of frame from DH table </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/orientation/Ex4.md'> Fixed axes rotation matrix </a>
+
 ### Denavit-Hartenberg 
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/Denavit-Hartenberg/Ex1.md'> DH table recognition </a>
@@ -31,6 +33,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 ### Inverse Kinematics
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/Ex1.md'> Inverse kinematics from DH table, planar robot </a>
+
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/Ex1.md'> Inverse kinematics RPY matrix </a>
 
 #### Numerical methods
 
