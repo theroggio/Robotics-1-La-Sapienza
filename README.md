@@ -33,7 +33,7 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
   - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex1.md'> Ex 1 - Harmonic Drive part </a>
 
 - Incremental encoder. 
-  - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex2.md'> Ex 1 - Reslution | Pulses per turn | Pulses counted | Counter going up/down </a>
+  - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex2.md'> Ex 1 - Resolution | Pulses per turn | Pulses counted | Counter going up/down </a>
 
 ### Inverse Kinematics
 
