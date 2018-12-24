@@ -23,10 +23,12 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 ### Motor 
 
 - Application of DC motor laws.
+  - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex1.md'>Ex 1</a>
 
 #### Reduction ratios
 
 - Rotation speed given the mechanical structure.
+  - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex1.md'> Ex1 - Harmonic Drive part </a>
 
 - Incremental encoder. 
 
