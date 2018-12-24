@@ -10,7 +10,7 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/orientation/Ex2.md'> Ex 2 - Orientation 4x4 of frame A wrt frame B </a>
 
-- In this configuration, what's the orientation of last frame?
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/orientation/Ex3.md'> Orientation of frame from DH table </a>
 
 ### Denavit-Hartenberg 
 
