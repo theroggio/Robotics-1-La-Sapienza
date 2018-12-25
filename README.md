@@ -50,6 +50,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/differential%20kinematics/Ex1.md'> Map from angular velocity to angles time derivative </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/differential%20kinematics/Ex2.md'> Velocity and acceleration in cartesian and joint space - circular trajectory </a>
+
 ### Trajectories
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/trajectories/Ex1.md'> Circular trajectory | Robustness </a>
