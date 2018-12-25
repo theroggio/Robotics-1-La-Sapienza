@@ -25,3 +25,13 @@ We could replace R with its formula to have **(x1 - x2)/2** and **(y1 - y2)/2** 
 Similarly the acceleration can be found as p''(t) = p''(s) * s'(t)^2 + p'(s) * s''(t)
 
 ### Associated joint velocity and acceleration 
+
+First of all we need to move to joint space finding the equations of end-effector in joint variables. From the picture is easy to see that **f(q)** = [ q2 * cos(q1) ; q2 * sin(q1) ].
+
+At time t = pi (when we're at P2) we know that that q1 (the angle) must be the angle of P2 so atan2( y2, x2). Q2 must be the distance toward P2 that can be computed from its coordinates as sqrt(x2^2 + y2^2). 
+
+The **velocity** can be computed as q'(t) = inv(J(q(t))) * p'(t) -> knowing p'(t) from previous part we just need to compute the inverse at q(T/2), that is known from last part. The Jacobian is easy to find once we have f(q).
+
+The **acceleration** is q''(t) = inv(J(q(t))) * [ p''(t) - J'(q(t)) * q'(t) ].
+
+Pay attention that J' is the time derivative of the jacobian (with respect to time! so every joint variable is a time variable!). 
