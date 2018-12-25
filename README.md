@@ -40,7 +40,7 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/Ex3.md'> Inverse Differential Problem </a>
 
-- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/Ex4.md'> Inverse Kinematics L-shaped 2R planar robot (position as Ac1 + Dc13) </a>
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/Ex4.md'> Inverse Kinematics L-shaped 2R planar robot (position as Ac1 + Dc12) </a>
 
 #### Numerical methods
 
