@@ -50,6 +50,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/Ex4.md'> Inverse Kinematics L-shaped 2R planar robot (position as Ac1 + Dc12) </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/Ex5.md'> 3R planar robot given fi and position </a>
+
 #### Numerical methods
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/numerical%20methods/Ex1.md'> Methods usage, parameters, expected results </a>
