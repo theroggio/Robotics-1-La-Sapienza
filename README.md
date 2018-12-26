@@ -40,6 +40,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex2.md'> Incremental Encoder: resolution | pulses per turn | pulses counted | counter going up/down </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex3.md'> Motor resolution linear/angular, torque, acceleration and inertia | Incremental encoder ppt, nbits </a> 
+
 ### Inverse Kinematics
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/Ex1.md'> Inverse kinematics from DH table, planar robot </a>
