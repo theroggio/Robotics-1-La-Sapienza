@@ -62,6 +62,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/differential%20kinematics/Ex4.md'> Joint velocities from desired displacement | Coordinated motion </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/differential%20kinematics/Ex5.md'> Geometric Jacobian </a>
+
 ### Trajectories
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/trajectories/Ex1.md'> Circular trajectory | Robustness </a>
