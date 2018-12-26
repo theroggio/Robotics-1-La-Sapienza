@@ -13,4 +13,4 @@ So the orientation, as complessive angle of last frame wrt first frame is **fi =
 
 Remember that this orientation is basically the anlge between last and first frame! so it's not last angle (last joint variable)!
 
-For inverse kinematics on this problem: <a href=''> here </a>.
+For inverse kinematics on this problem: <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/Ex5.md'> here </a>.
