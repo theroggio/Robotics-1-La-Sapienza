@@ -36,8 +36,6 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex1.md'>Voltage to apply given speed </a>
 
-#### Reduction ratios
-
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex1.md'> Harmonic Drive </a>
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex2.md'> Incremental Encoder: resolution | pulses per turn | pulses counted | counter going up/down </a>
