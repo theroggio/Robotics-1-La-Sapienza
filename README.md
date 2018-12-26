@@ -16,6 +16,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/orientation/Ex5.md'> Orientation and position of slave robot from reference on master robot </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/orientation/Ex6.md'> Relative orientation of frames, expression as axis-angle </a>
+
 ### Denavit-Hartenberg 
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/Denavit-Hartenberg/Ex1.md'> DH table recognition </a>
