@@ -26,6 +26,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/Denavit-Hartenberg/images/4RComau.JPG'> 4R Comau DH </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/Denavit-Hartenberg/images/panda7R.JPG'> Panda 7R </a>
+
 ### Motor 
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex1.md'>Voltage to apply given speed </a>
