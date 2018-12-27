@@ -57,6 +57,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex5.md'> Absolute vs. Incremental encoders </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex6.md'> Encoder on motor or link ? </a>
+
 ### Inverse Kinematics
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/Ex1.md'> Inverse kinematics from DH table, planar robot </a>
@@ -108,3 +110,5 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/kinematic%20control/Ex1.md'> Wrenches which no need controls (forces and torque not perturbing equilibrium) </a>
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/kinematic%20control/Ex2.md'> Control on cartesian error </a>
+
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/kinematic%20control/Ex3.md'> How measure position </a>
