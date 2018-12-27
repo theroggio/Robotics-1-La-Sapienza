@@ -114,3 +114,5 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/kinematic%20control/Ex2.md'> Control on cartesian error </a>
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/kinematic%20control/Ex3.md'> How measure position </a>
+
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/kinematic%20control/Ex4.md'> Plan velocity after human detection </a>
