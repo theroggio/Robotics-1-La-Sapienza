@@ -18,6 +18,11 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/orientation/Ex6.md'> Relative orientation of frames, expression as axis-angle </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/orientation/Ex7.md'> Vector attached to a body orientation after rotations </a>
+
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/orientation/Ex8.md'> Cylindrical coordinates </a>
+
+  
 ### Denavit-Hartenberg 
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/Denavit-Hartenberg/Ex1.md'> DH table recognition </a>
@@ -36,6 +41,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/Denavit-Hartenberg/images/staublyrxdh.JPG'> Staubly RX 6R </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/Denavit-Hartenberg/images/GMF%20RPPRR.JPG'> GMF 5dof RPPRR </a>
+
 ### Motor 
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex1.md'>Voltage to apply given speed </a>
@@ -45,6 +52,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex2.md'> Incremental Encoder: resolution | pulses per turn | pulses counted | counter going up/down </a>
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex3.md'> Motor resolution linear/angular, torque, acceleration and inertia | Incremental encoder ppt, nbits </a> 
+
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex4.md'> Velocity [RPM] </a>
 
 ### Inverse Kinematics
 
