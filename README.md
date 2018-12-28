@@ -113,6 +113,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/trajectories/Ex4.md'> Minimul feasible time generic </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/trajectories/Ex5.md'> Trajectory min time in joint space </a>
+
 ### Kinematic Control
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/kinematic%20control/Ex1.md'> Wrenches which no need controls (forces and torque not perturbing equilibrium) </a>
