@@ -124,6 +124,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/trajectories/Ex7.md'> Quadratic cartesian trajectory for ending direction not along segment </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/trajectories/Ex8.md'> Linear trajectory at constant speed </a>
+
 ### Kinematic Control
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/kinematic%20control/Ex1.md'> Wrenches which no need controls (forces and torque not perturbing equilibrium) </a>
