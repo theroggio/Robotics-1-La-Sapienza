@@ -66,6 +66,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex6.md'> Encoder on motor or link ? </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex7.md'> Norm resolution with encoders on joints, uncertainties </a>
+
 ### Inverse Kinematics
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/Ex1.md'> Inverse kinematics from DH table, planar robot </a>
