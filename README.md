@@ -110,6 +110,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/differential%20kinematics/Ex10.md'> Double velocity task </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/differential%20kinematics/Ex11.md'> Build of jacobian for particular velocity (joint-cartesian) or balancing torques </a>
+
 ### Trajectories
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/trajectories/Ex1.md'> Circular trajectory | Robustness </a>
