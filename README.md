@@ -23,6 +23,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/orientation/Ex8.md'> Cylindrical coordinates </a>
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/orientation/Ex9.md'> Relative orientation | Point coordinates </a>
+
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/kinematic%20control/Ex8.md'> Workspace 3R planar </a>
   
 ### Denavit-Hartenberg 
 
