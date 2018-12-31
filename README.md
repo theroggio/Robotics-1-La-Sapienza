@@ -52,6 +52,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/Denavit-Hartenberg/images/comauracerdh.JPG'> Comau Racer 6R </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/Denavit-Hartenberg/images/k1027%207r.JPG'> K-1207 7R spacial </a>
+
 ### Motor 
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/motor/Ex1.md'>Voltage to apply given speed </a>
