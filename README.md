@@ -86,6 +86,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/Ex6.md'> Inverse method for spacial robot </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/Ex7.md'> RPR planar robot with desired position and orientation </a>
+
 ### Numerical methods
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/inverse%20kinematics/numerical%20methods/Ex1.md'> Methods usage, parameters, expected results </a>
