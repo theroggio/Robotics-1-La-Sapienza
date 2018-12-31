@@ -136,7 +136,9 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/trajectories/Ex8.md'> Linear trajectory at constant speed </a>
 
-- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/trajectories/Ex9.md'> Circcle with A,B,radius | Acceleration tangent/normal </a>
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/trajectories/Ex9.md'> Circle with A,B,radius | Acceleration tangent/normal </a>
+
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/trajectories/Ex10.md'> Trajectory between orientation from rotation matrices </a>
 
 ### Kinematic Control
 
