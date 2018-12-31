@@ -155,3 +155,7 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/kinematic%20control/Ex6.md'> Acceleration command and control law </a>
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/kinematic%20control/Ex7.md'> Acceleration command control </a>
+
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/kinematic%20control/Ex8.md'> Workspace 3R planar </a>
+
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/kinematic%20control/Ex9.md'> Velocity control on wrist and arm of 6R </a>
