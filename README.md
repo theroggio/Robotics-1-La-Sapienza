@@ -152,6 +152,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/trajectories/Ex11.md'> Trajectory between orientation matrices, axis-angle representation </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/trajectories/Ex12.md'> Periodic trajectory </a>
+
 ### Kinematic Control
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/kinematic%20control/Ex1.md'> Wrenches which no need controls (forces and torque not perturbing equilibrium) </a>
