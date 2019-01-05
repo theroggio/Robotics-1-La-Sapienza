@@ -1,6 +1,6 @@
 # General Differential problem
 
-## Treated for circular trajectory of exercise <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/trajectories/Ex1.md'> Ex1 </a>
+## Treated for circular trajectory of exercise <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/trajectories/Circular%20Trajectory.md'> Ex1 </a>
 
 ### Cartesian velocity and acceleration in point P2
 
