@@ -154,6 +154,8 @@ Here's the material to solve Robotics 1 exercises: explaination, code and exampl
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/trajectories/Periodic%20Trajectory.md'> Periodic trajectory </a>
 
+- <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/trajectories/Path%20Curvature.md'> Path Curvature Computation </a>
+
 ### Kinematic Control
 
 - <a href='https://github.com/theroggio/Robotics-1-La-Sapienza/blob/master/exercises/kinematic%20control/Balance%20Wrenches.md'> Wrenches which no need controls (forces and torque not perturbing equilibrium) </a>
